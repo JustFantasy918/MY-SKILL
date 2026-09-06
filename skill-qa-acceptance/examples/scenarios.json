@@ -1,0 +1,18 @@
+{
+  "持仓诊断": {
+    "refs": ["risk-management", "decision-flowchart", "prosperity-cycle-guide"],
+    "needs": ["止损", "减仓", "量比", "景气", "水位"]
+  },
+  "行情研判": {
+    "refs": ["prosperity-cycle-guide", "risk-management"],
+    "needs": ["估值端", "产业端", "宏观", "四象限"]
+  },
+  "板块景气": {
+    "refs": ["sector-views", "prosperity-cycle-guide"],
+    "needs": ["景气", "DRAM", "验证指标"]
+  },
+  "郑希核心理念": {
+    "refs": ["core-philosophy"],
+    "needs": ["景气度投资", "复利", "通胀", "拼接"]
+  }
+}
